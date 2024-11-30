@@ -90,5 +90,3 @@ This documentation was done by
 [Vuga William](https://lead.asknet.community/profiles/Vuga-William/)
 [Lokuju Morish](https://www.facebook.com/search/top?q=maurice%20lokuju%20dario )
 
-https://github.com/user-attachments/assets/e2361c09-f8a6-497d-b580-27d4f5da7cde
-
