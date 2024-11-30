@@ -66,7 +66,7 @@ Some challenges faced during the program included:
 - Inconsistent attendance due to participants' caregiving responsibilities.
 - Limited resources for implementing advocacy campaigns.
 - Language barriers affecting comprehension for some participants.
-https://github.com/user-attachments/assets/e2361c09-f8a6-497d-b580-27d4f5da7cde
+
 ## Recommendations
 
 1. **Resource Mobilization**: Secure funding and partnerships to support action plans.
@@ -83,12 +83,12 @@ The gallery below showcases training highlights, including group activities, dra
 
 ## Credits
 
-This training program is implemented by the **Youth Empowerment Foundation (YEF)** under the **Mentor Her Project**, a refugee-led initiative based in Pagirinya Settlement, with support from community stakeholders.
+This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology. The training was facilitated by  [Janet Mundua]( ) 
+This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
+This documentation was done by 
+[Amoko Joseph](https://lead.asknet.community/profiles/Amoko-Joseph/)
+[Vuga William](https://lead.asknet.community/profiles/Vuga-William/)
+[Lokuju Morish](https://www.facebook.com/search/top?q=maurice%20lokuju%20dario )
 
-## License
-
-Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).
-
----
-
+https://github.com/user-attachments/assets/e2361c09-f8a6-497d-b580-27d4f5da7cde
 
