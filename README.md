@@ -1,12 +1,13 @@
-Here is the OER template adapted for your **Leadership and Community Engagement Training Campaign on Teenage Pregnancy**. 
-
----
 
 # Leadership & Community Engagement and Teenage Pregnancy Campaign Training (LCE-TPC)
 
 The **LCE-TPC Training Program** is an initiative designed to empower young mothers with leadership skills, community engagement strategies, and vital knowledge on preventing teenage pregnancies. Conducted by the **Youth Empowerment Foundation (YEF)** in Pagirinya Refugee Settlement, this program is part of the **Mentor Her Project** aimed at driving sustainable social change.
 
-![Group photo](https://github.com/user-attachments/assets/99f9cb48-c072-422e-9232-48b4ebd6dbfe)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/5cf9843d-3c74-4432-8fc0-0d0ff54d0c5d" width="30%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/41b11918-83b5-4ac7-aadc-ba4abbf038f2" width="30%" alt="Image 2">
+  <img src="https://github.com/user-attachments/assets/919ce9d1-6809-4ab2-a598-2cd6ed8e578a" width="30%" alt="Image 3">
+</div>
 
 ## Learning Objectives
 
@@ -65,7 +66,7 @@ Some challenges faced during the program included:
 - Inconsistent attendance due to participants' caregiving responsibilities.
 - Limited resources for implementing advocacy campaigns.
 - Language barriers affecting comprehension for some participants.
-
+https://github.com/user-attachments/assets/e2361c09-f8a6-497d-b580-27d4f5da7cde
 ## Recommendations
 
 1. **Resource Mobilization**: Secure funding and partnerships to support action plans.
@@ -77,8 +78,8 @@ Some challenges faced during the program included:
 
 The gallery below showcases training highlights, including group activities, drama sessions, and participant presentations.
 
-![Facilitation](https://github.com/user-attachments/assets/99f9cb48-c072-422e-9232-48b4ebd6dbfe)
-![Drama session](https://github.com/user-attachments/assets/fa405c0a-3e86-42d8-8848-75c9585854e8)
+![logo](https://github.com/user-attachments/assets/99f9cb48-c072-422e-9232-48b4ebd6dbfe)
+![logo](https://github.com/user-attachments/assets/fa405c0a-3e86-42d8-8848-75c9585854e8)
 
 ## Credits
 
@@ -90,4 +91,4 @@ Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](LIC
 
 ---
 
-You can copy this template and adjust any specifics further! Let me know how else you'd like to enhance it.
+
