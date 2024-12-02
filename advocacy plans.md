@@ -18,6 +18,11 @@ To empower women trained under the MentorHer Project to use broadcast speakers f
 3. Local community leaders, educators, and healthcare providers.  
 
 ---
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/3e92af19-3c82-4891-b87a-3a676943a4d4" width="30%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/f985a32f-68ad-47e9-9dc3-2b4b0b813537" width="30%" alt="Image 2">
+  <img src="https://github.com/user-attachments/assets/e0228da8-0972-405d-bc44-63bb0b8d1ee6" width="30%" alt="Image 3">
+</div>
 
 ### **Key Messages**  
 1. **"Your Voice, Your Power"**: Encouraging trained women to lead conversations through accessible media.  
@@ -74,3 +79,4 @@ To empower women trained under the MentorHer Project to use broadcast speakers f
 The broadcast speakers at YEF represent a unique opportunity to bridge communication gaps and create transformative community impacts. By supporting trained women to use this platform, we empower them to lead advocacy efforts, inspire others, and contribute to a thriving, informed, and united Pagirinya Refugee Settlement.  
 
 ---  
+
