@@ -76,8 +76,6 @@ Some challenges faced during the program included:
 
 ## Pictorial
 
-The gallery below showcases training highlights, including group activities, drama sessions, and participant presentations.
-
 ![logo](https://github.com/user-attachments/assets/99f9cb48-c072-422e-9232-48b4ebd6dbfe)
 ![logo](https://github.com/user-attachments/assets/fa405c0a-3e86-42d8-8848-75c9585854e8)
 
