@@ -26,7 +26,7 @@ By the end of this training, participants will be able to:
 6. [Challenges](README.md#challenges)
 7. [Recommendations](README.md#recommendations)
 8. [Gallery](digital_materials/photo_gallery.md)
-9. [Advocacy Campaign Plans](Advocacy_Campaign_Plans.md)
+9. [Advocacy Campaign Plans](advocacy%20plans.md)
 
 ## Introduction
 
